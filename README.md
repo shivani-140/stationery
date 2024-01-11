@@ -1,2 +1,2 @@
 # stationery
-using html , css and basic js
+This is a website using html , css and basic js
